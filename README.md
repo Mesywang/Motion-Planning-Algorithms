@@ -6,7 +6,7 @@
 + MinimumSnap_QP.m : minimum snap trajectory generation by using the ‘quadprog’ QP solver.
 + MinimumSnap_Closed_Form.m : minimum snap trajectory generation based on the closed form solution.
 
-There are 2 demo codes in 2D space, you can directly run them and select waypoints in the pop-up window, press "enter" to confirm all waypoints.
+**There are 2 demo codes in 2D space, you can directly run them and select waypoints in the pop-up window, press "enter" to confirm all waypoints.**
 
 
 <div align=center> Minimum Snap Trajectory</div>
