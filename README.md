@@ -31,7 +31,7 @@ Matlab Implementations of some motion planning algorithms, such as A*, RRT, RRT*
 	<img src="./MinimunSnapTrajectoryGenerator/results/MinimumSnap_QP1.gif" width = "350" height = "320" >
 </div>
 
-## [Hard Constraint Trajectory Optimization]
+## [Hard Constraint Trajectory Optimization](https://github.com/Mesywang/Motion-Planning-Algorithm/tree/master/HardConstraintTrajectoryOptimization)
 
 <div align=center> Corridor-based and BezierCurve-based Trajectory</div>
 <div align=center>
