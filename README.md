@@ -1,15 +1,39 @@
-# Minimum-Snap-Trajectory-Generation-MATLAB
- Minimum snap trajectory generation in MATLAB
+# Motion-Planning-Algorithm
+Matlab Implementations of some motion planning algorithms, such as A*, RRT, RRT*, minimum snap trajectory generation and so on...
 
 ---
 
-+ MinimumSnap_QP.m : minimum snap trajectory generation by using the ‘quadprog’ QP solver.
-+ MinimumSnap_Closed_Form.m : minimum snap trajectory generation based on the closed form solution.
+## [Astar](http://wiki.ros.org/kinetic/Installation/Ubuntu)
 
-**There are 2 demo codes in 2D space, you can directly run them and select waypoints in the pop-up window, press "enter" to confirm all waypoints.**
+<div align=center> Astar</div>
+<div align=center>
+	<img src="./Astar/img/AstarMatLab.png" width = "350" height = "320" >
+</div>
 
+## RRT
+
+<div align=center> RRT </div>
+<div align=center>
+	<img src="./RRT-RRTstar/results/RRT.gif" width = "350" height = "320" >
+</div>
+
+## RRTstar
+
+<div align=center> RRT* </div>
+<div align=center>
+	<img src="./RRT-RRTstar/results/RRTStar.gif" width = "350" height = "320" >
+</div>
+
+## Minimun Snap Trajectory Generator
 
 <div align=center> Minimum Snap Trajectory</div>
 <div align=center>
-	<img src="./results/MinimumSnap_QP1.gif" width = "500" height = "470" >
+	<img src="./MinimunSnapTrajectoryGenerator/results/MinimumSnap_QP1.gif" width = "350" height = "320" >
+</div>
+
+## Hard Constraint Trajectory Optimization
+
+<div align=center> Corridor-based and BezierCurve-based Trajectory</div>
+<div align=center>
+	<img src="./HardConstraintTrajectoryOptimization/result/trajectory.jpg" width = "350" height = "320" >
 </div>
