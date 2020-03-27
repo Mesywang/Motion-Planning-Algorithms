@@ -1,5 +1,5 @@
 # Motion-Planning-Algorithm
-Matlab Implementations of some motion planning algorithms, such as A*, RRT, RRT*, minimum snap trajectory generation and so on...
+Matlab Implementations of some motion planning algorithms, such as A\*, RRT, RRT\*, Trajectory Optimization and so on...
 
 ---
 
